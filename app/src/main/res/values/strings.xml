@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SprintUnoV2</string>
+    <string name="btnAdelante">Adelante</string>
+    <string name="btnAtras">Atrás</string>
+</resources>
