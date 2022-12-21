@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:gravity="center"
     android:background="@drawable/fondo_android_2"
-    tools:context=".MainActivity">
+    tools:context=".Catalogo">
 
     <Button
         android:id="@+id/btnAtras"

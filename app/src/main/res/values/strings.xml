@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">SprintUnoV2</string>
+    <string name="app_name">Sprint Uno v2 (Ricardo Rivera Beltrán)</string>
     <string name="btnAdelante">Adelante</string>
     <string name="btnAtras">Atrás</string>
 </resources>
